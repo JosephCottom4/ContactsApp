@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HelloProject\ContactsAppCore.csproj" />
+    <ProjectReference Include="..\HelloProject\HelloProject.csproj" />
   </ItemGroup>
 
 </Project>

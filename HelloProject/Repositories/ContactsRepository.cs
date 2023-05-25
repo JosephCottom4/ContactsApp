@@ -1,8 +1,8 @@
-﻿using System.Data;
-using ContactsAppCore.Models;
-using Dapper;
+﻿using Dapper;
+using HelloProject.Models;
+using System.Data;
 
-namespace ContactsAppCore.Repositories
+namespace HelloProject.Repositories
 {
     public class ContactsRepository : IContactsRepository
     {

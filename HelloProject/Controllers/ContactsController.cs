@@ -1,8 +1,8 @@
-﻿using ContactsAppCore.Models;
-using ContactsAppCore.Services;
+﻿using HelloProject.Models;
+using HelloProject.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ContactsAppCore.Controllers
+namespace HelloProject.Controllers
 {
     [ApiController]
     [Route("[controller]")]

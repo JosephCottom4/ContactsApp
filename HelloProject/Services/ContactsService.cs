@@ -1,7 +1,7 @@
-﻿using ContactsAppCore.Models;
-using ContactsAppCore.Repositories;
+﻿using HelloProject.Models;
+using HelloProject.Repositories;
 
-namespace ContactsAppCore.Services
+namespace HelloProject.Services
 {
     public class ContactsService : IContactsService
     {

@@ -1,4 +1,4 @@
-﻿namespace ContactsAppCore.Models
+﻿namespace HelloProject.Models
 {
     public class NewContactDto
     {

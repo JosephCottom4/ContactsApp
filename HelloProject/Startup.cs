@@ -1,9 +1,9 @@
-﻿using System.Data;
+﻿using HelloProject.Repositories;
+using HelloProject.Services;
+using System.Data;
 using System.Data.SqlClient;
-using ContactsAppCore.Repositories;
-using ContactsAppCore.Services;
 
-namespace ContactsAppCore
+namespace HelloProject
 {
     public class Startup
     {

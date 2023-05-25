@@ -1,9 +1,9 @@
-using ContactsAppCore.Models;
-using ContactsAppCore.Repositories;
-using ContactsAppCore.Services;
+using HelloProject.Models;
+using HelloProject.Repositories;
+using HelloProject.Services;
 using Moq;
 
-namespace ContactsAppTests
+namespace HelloProjectTests
 {
     public class ContactsServiceTests
     {

@@ -1,6 +1,6 @@
-﻿using ContactsAppCore.Models;
+﻿using HelloProject.Models;
 
-namespace ContactsAppCore.Repositories
+namespace HelloProject.Repositories
 {
     public interface IContactsRepository
     {
