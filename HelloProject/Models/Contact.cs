@@ -1,4 +1,4 @@
-namespace HelloProject.Models
+namespace ContactsAppCore.Models
 {
     public class Contact
     {

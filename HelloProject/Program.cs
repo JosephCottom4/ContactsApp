@@ -1,4 +1,4 @@
-using HelloProject;
+using ContactsAppCore;
 
 var builder = Host.CreateDefaultBuilder(args);
 
